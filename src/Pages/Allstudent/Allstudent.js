@@ -12,7 +12,6 @@ const Allstudent = () => {
         .then(res=>res.json())
         .then(data =>setStudent(data))
  },[])
- console.log(students);
 
 
     return (
@@ -23,9 +22,37 @@ const Allstudent = () => {
             <div id='students-table'>
                 <div className='students-table-wraper'>
                     <div className='students'>
+
+                    <div className='student'>
+                            <div className='student-name student-info '>
+                                <h6 className='text-center'>S/L </h6>
+                            </div>
+                            <div className='student-name student-info '>
+                                <h6 className='text-center'>ছবি </h6>
+                            </div>
+                            <div className='student-name student-info '>
+                                <h6 className='text-center'>নাম: </h6>
+                            </div>
+                            <div className='course-name student-info '>
+                                 <h6 className='text-center'>র্কোসের নাম:</h6>
+                            </div>
+                            <div className='total-fee student-info'>
+                            <h6 className='text-center'>মোট ফি: </h6>
+                            </div>
+                            <div className='total-paid student-info'>
+                            <h6 className='text-center'>মোট জমা:</h6>
+                            </div>
+                            <div className='view-profile student-info text-center'>
+                            <h6 className='text-center'>প্রোফাইল </h6>
+                            </div>
+
+                        </div>
                         {
-                            students.map(student => <Students student={student} key={student._id} ></Students>)
+                            students.map(student => <Students student={student} index={students.indexOf(student)}  key={student._id} ></Students>)
+                           
+                            
                         }
+                        
                        
                     </div>
                 </div>
