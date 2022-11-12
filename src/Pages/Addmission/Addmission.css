@@ -1,0 +1,72 @@
+
+#addmission-section{
+    padding: 10px 30px;
+    max-width: 1400px;
+    border: 2px solid rgba(20, 168, 0, 0.263);
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.addmission-heading{
+    border-bottom: 3px solid rgb(20 168 0);
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    
+}
+.student-img{
+    background-image: url("../../Img/upload-icon.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer !important;
+
+}
+.student-img h5{
+    z-index: 10;
+    color: #333;
+    font-weight: 700;
+    font-size: 25px;
+}
+.addmission-wrapper{
+}
+.date-select option{
+    font-size: 16px;
+}
+.upload-img{
+    content: "Already Upload";
+    background-image: url("../../Img/images.png");
+    color: transparent;
+}
+.addmission-form-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+}
+.addmission-date{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.addmission-date p{
+ margin-bottom: -0px;
+ margin-right: 10px;
+}
+.addmission-date select{
+    font-size: 14px ;
+
+}
+.student-img{
+    width: 100px;
+    height:100px;
+    border: 2px solid #333;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.addmission-title h3{
+    margin-left: -100px;
+
+}

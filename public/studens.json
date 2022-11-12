@@ -1,0 +1,85 @@
+[
+    {
+        "banglaName": "আঃ রাজ্জাক",
+        "englishName": "Abdur Razzak",
+        "fatherName": "আসরাফ উদ্দিন",
+        "englishFatherName": "Ashraf Uddin",
+        "motherName": "রিনা বেগম",
+        "englishMotherName": "Rina Begum",
+        "permanentAddress":{
+            "village":"সমিবাদ",
+            "postOffice":"চর-মধুয়া",
+            "upazila":"রায়পুরা",
+            "zila":"নরসিংদী"
+
+        },
+        "presentAddress":"বাঘের বাজার,গাজীপুর সদর গাজীপুর",
+        "mobile":"০১৭০৩৯০৬৯৮০",
+        "parentMobile":"০১৮৬০২৪২৪৭৯",
+        "eduQalification":"এইচ এস সি পাশ",
+        "jscInfo":{
+            "roll":"২০২০২০",
+            "result":"৩.৫",
+            "passing-year":"২০১৬",
+            "division":"ঢাকা"
+        },
+        "sscInfo":{
+            "roll":"২০৪২০২০",
+            "result":"৩.৫",
+            "passing-year":"২০১৮",
+            "division":"ঢাকা"
+        },
+        "addmissionDate":"১২-জানুয়ারী-২০২২",
+        "dateOfBirth":"১২-জানুয়ারী-১৯৯৯",
+        "religion":"ইসলাম",
+        "refarance":"জামিল",
+        "email":"abd@gmail.com",
+        "courseName":"অফিস র্কোস ৬ মাসের জন্য",
+        "totalFee":"৩০০০",
+        "totalPaid":"৩০০০"
+
+
+    },
+    {
+        "banglaName": "রাসেল",
+        "englishName": "Rasel",
+        "fatherName": "আসরাফ উদ্দিন",
+        "englishFatherName": "Ashraf Uddin",
+        "motherName": "রিনা বেগম",
+        "englishMotherName": "Rina Begum",
+        "permanentAddress":{
+            "village":"সমিবাদ",
+            "postOffice":"চর-মধুয়া",
+            "upazila":"রায়পুরা",
+            "zila":"নরসিংদী"
+
+        },
+        "presentAddress":"বাঘের বাজার,গাজীপুর সদর গাজীপুর",
+        "mobile":"০১৭০৩৯০৬৯৮০",
+        "parentMobile":"০১৮৬০২৪২৪৭৯",
+        "eduQalification":"এইচ এস সি পাশ",
+        "jscInfo":{
+            "roll":"২০২০২০",
+            "result":"৩.৫",
+            "passing-year":"২০১৬",
+            "division":"ঢাকা"
+        },
+        "sscInfo":{
+            "roll":"২০৪২০২০",
+            "result":"৩.৫",
+            "passing-year":"২০১৮",
+            "division":"ঢাকা"
+        },
+        "addmissionDate":"১২-জানুয়ারী-২০২২",
+        "DateOfBirth":"১২-জানুয়ারী-১৯৯৯",
+        "religion":"ইসলাম",
+        "refarance":"জামিল",
+        "email":"abd@gmail.com",
+        "courseName":"অফিস র্কোস ৬ মাসের জন্য",
+        "totalFee":"৩০০০",
+        "totalPaid":"৩০০০"
+
+
+    }
+   
+]

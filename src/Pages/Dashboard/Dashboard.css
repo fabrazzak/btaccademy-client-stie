@@ -1,0 +1,33 @@
+#dashboard-section{
+    position: relative;
+
+}
+.dashboard-wrapper{
+    display: grid;
+    grid-template-columns: 1fr  6fr;
+    position: relative;
+
+}
+.dashboard-sidebar{
+    background-color: aliceblue;
+    padding-top: 40px;
+    position: relative;
+}
+.sidebar-list{
+    position: fixed;
+    top: 130px;
+    left: 10px;
+}
+
+.sidebar-item{
+    display: flex;
+    flex-direction: column;
+    justify-self: start;
+}
+.sidebar-link{
+    margin-left: -10px !important;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+/* addmission css  */
